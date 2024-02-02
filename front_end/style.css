@@ -1,0 +1,8 @@
+body {
+  background-color: aliceblue;
+}
+button {
+  border: 3px solid black;
+  color: red;
+  background: none;
+}
