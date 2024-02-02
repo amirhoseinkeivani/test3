@@ -9,3 +9,5 @@ const myObj = {
   connect: "pc",
   hour: "2:41",
 };
+console.log("hi");
+alert(myArr.connect);
